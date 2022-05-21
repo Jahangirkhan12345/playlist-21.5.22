@@ -12,7 +12,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="* BDIX19",BTV CTG
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CBnhahCJIH22-krVEDJqbYrEqf4hwojBig&usqp=CAU" group-title="* BDIX19",Maasranga TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSaLB1LH1X3SNhO8mxmGdo7fdBPxdjEBz7g&usqp=CAU" group-title="* BDIX19",Desh TV
+http://208.86.19.13:81/629.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CBnhahCJIH22-krVEDJqbYrEqf4hwojBig&usqp=CAU" group-title="* BDIX19",Maasranga TV
 http://208.86.19.13:81/686.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="* BDIX19",ATN BANGLA
